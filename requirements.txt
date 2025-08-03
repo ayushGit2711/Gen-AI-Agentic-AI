@@ -1,0 +1,10 @@
+langchain
+langgraph
+python-dotenv
+langchain_mcp_adapters
+streamlit
+google
+google.genai
+langchain_chroma
+langchain-community 
+beautifulsoup4
